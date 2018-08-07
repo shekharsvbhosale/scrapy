@@ -1,0 +1,25 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.232:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin123"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "486245b79900b5f8b54c4bba6bb80575",
+			"projectName": "JenkinsPlugin_Python_Scrapy",
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\Python\\Scrapy-dataDir",
+		"modules": {
+				"codeissues": [{
+						"name": "phpmd"
+					}, {
+						"name": "phpcs"
+					}
+				]
+			}
+	}]
+}
